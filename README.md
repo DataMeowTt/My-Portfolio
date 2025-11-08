@@ -4,7 +4,6 @@
 
 ### 👤 Personal Information
 - **Full Name:** Trần Anh Tuấn  
-- **Date of Birth:** 18/09/2005  
 - **University:** Vietnam National University, Hanoi - University of Engineering and Technology  
 - **Major:** Computer Science  
 - **Email:** [trantuann1809@gmail.com](mailto:trantuann1809@gmail.com)  
