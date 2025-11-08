@@ -23,4 +23,4 @@ This repository contains multiple projects organized in separate folders. Each p
 ---
 
 ### 🚀 Let’s Connect
-Feel free to reach out via **email** or **LinkedIn**. I’m always open to discussing data engineering, collaboration, and learning opportunities!
+Feel free to reach out via **email** or **LinkedIn**. I’m always open to collaboration, and learning opportunities!
