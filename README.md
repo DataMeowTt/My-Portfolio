@@ -1,4 +1,4 @@
-# 🌟 Trần Anh Tuấn - Data Engineer Portfolio
+# PORTFOLIO 
 
 ---
 
@@ -8,11 +8,6 @@
 - **Major:** Computer Science  
 - **Email:** [trantuann1809@gmail.com](mailto:trantuann1809@gmail.com)  
 - **LinkedIn:** [www.linkedin.com/in/tuantranb23a22383](https://www.linkedin.com/in/tuantranb23a22383)
-
----
-
-### 💡 About Me
-I am a passionate **Data Engineer** focused on transforming raw data into actionable insights, optimizing data pipelines, and leveraging modern technologies to solve complex challenges.
 
 ---
 
