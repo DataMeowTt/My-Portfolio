@@ -6,6 +6,8 @@ The **HealthClaim Standardizer** project is designed to address a major challeng
 
 The core goal is to create a unified raw layer (Standard Schema) in the Data Warehouse, allowing analytics teams to run queries and analytical models across the entire dataset without worrying about the original source format.
 
+<img width="647" height="342" alt="hide" src="https://github.com/user-attachments/assets/1edbf7a4-dc02-4594-a2b6-abc3a3248f77" />
+
 ---
 
 ## Datasets
@@ -20,6 +22,8 @@ The project uses two main data sources, simulating a real-world healthcare data 
 2. **NDC Drug Code Data (National Drug Code):**
     * **Source:** NDC file from OpenFDA (contains information about all FDA-approved drugs).
     * **Link:** [OpenFDA NDC Drug Data](https://download.open.fda.gov/drug/ndc/drug-ndc-0001-of-0001.json.zip)
+
+<img width="600" height="332" alt="data lúc 00 09 08" src="https://github.com/user-attachments/assets/594d209b-7b6a-4374-a224-89851278fc48" />
 
 ---
 
