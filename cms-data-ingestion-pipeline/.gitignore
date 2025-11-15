@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.env
+
+# Mac system files
+.DS_Store
+.vscode/
+
+# Ignore config files
+__init__.py
+
+logs/
